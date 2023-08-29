@@ -1,6 +1,6 @@
 ### Olá sou o João Coelho!👋
 <h1>
--Hoje trabalho com fullstack.</h1>
+-Fullstack.</h1>
 <h2>-Estudando Lua.</h2>
 <h2>-Estudando Kotlin.</h2>
 <h3>-contate-me pelo email: joaopcoelho2010@gmail.com</h3>
