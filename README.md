@@ -9,9 +9,12 @@
 
 ---
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpC0ELHO&theme=transparent&show_icons=true&rank_icon=github"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpC0ELHO&layout=compact&theme=transparent"/>
+<div align="center">## 📊 Estatísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jpC0ELHO&show_icons=true&theme=tokyonight&cache_seconds=86400)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpC0ELHO&layout=compact&theme=tokyonight&cache_seconds=86400)
+
 </div>
 
 ---
@@ -35,8 +38,4 @@
 - Inteligência Artificial aplicada
 - Bancos de Dados Analíticos e Transacionais
 - Automação e Sistemas Inteligentes
----
-
-
-
 ---
