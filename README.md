@@ -9,11 +9,12 @@
 
 ---
 
-<div align="center">## 📊 Estatísticas
+<div align="center">
+  
+![Followers](https://img.shields.io/github/followers/jpC0ELHO?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/jpC0ELHO?style=for-the-badge)
+![Repos](https://img.shields.io/badge/dynamic/json?label=Public%20Repos&query=public_repos&url=https://api.github.com/users/jpC0ELHO&style=for-the-badge)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jpC0ELHO&show_icons=true&theme=tokyonight&cache_seconds=86400)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpC0ELHO&layout=compact&theme=tokyonight&cache_seconds=86400)
 
 </div>
 
