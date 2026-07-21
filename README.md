@@ -1,7 +1,7 @@
 <h1 align="center">João Coelho</h1>
 <h3 align="center">Inventor | Software Developer | Systems Architect | IOT Engineer | IA Developer </h3>
 <p align="center">
-  CEO at <a href="https://github.com/KraniumSLU">Kranium </a>
+
 </p>
 
 <p align="center">
