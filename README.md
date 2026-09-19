@@ -41,7 +41,7 @@
 
 ## `02` — Technology Stack
 
-```text
+```
 BACKEND
 ├── Java
 ├── Spring
@@ -58,6 +58,71 @@ SYSTEMS
 ├── IoT
 ├── Sensors
 └── Automation
-
 INTELLIGENCE
+└── Applied AI
+```
+´ ## `03` — Architecture
+                         ┌───────────────────┐
+                         │      CLIENT       │
+                         │ Web / Desktop /   │
+                         │ Mobile / IoT      │
+                         └─────────┬─────────┘
+                                   │
+                                   ▼
+                         ┌───────────────────┐
+                         │       API         │
+                         │ REST / WebSocket  │
+                         └─────────┬─────────┘
+                                   │
+                                   ▼
+                         ┌───────────────────┐
+                         │   APPLICATION     │
+                         │      LOGIC        │
+                         └─────────┬─────────┘
+                                   │
+                    ┌──────────────┼──────────────┐
+                    ▼              ▼              ▼
+              ┌──────────┐  ┌──────────┐  ┌──────────┐
+              │   IoT    │  │   AI     │  │Automation│
+              │ Sensors  │  │ Models   │  │ Systems  │
+              └────┬─────┘  └──────────┘  └──────────┘
+                   │
+                   ▼
+              ┌──────────┐
+              │ DATABASE │
+              │ SQL /    │
+              │ Analytics│
+              └──────────┘
+
+
+## `04` — Core Areas
+
+[ SOFTWARE ]
+      │
+      ├── Backend
+      ├── APIs
+      ├── Distributed Systems
+      └── System Architecture
+
+[ IoT ]
+      │
+      ├── Sensors
+      ├── Embedded Devices
+      ├── Device Communication
+      └── Remote Control
+
+[ AUTOMATION ]
+      │
+      ├── Intelligent Systems
+      ├── Process Automation
+      ├── Monitoring
+      └── Control
+
+[ AI ]
+      │
+      ├── Applied Intelligence
+      ├── Data Processing
+      ├── Detection
+      └── Decision Support
+              └──────────┘
 └── Applied AI
