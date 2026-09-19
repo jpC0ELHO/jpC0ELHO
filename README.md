@@ -10,11 +10,11 @@
 
 <br><br>
 
-![Followers](https://img.shields.io/github/followers/SEU_USUARIO?style=for-the-badge&label=FOLLOWERS)
+![Followers](https://img.shields.io/github/followers/jpC0ELHO?style=for-the-badge&label=FOLLOWERS)
 
-![Stars](https://img.shields.io/github/stars/SEU_USUARIO?style=for-the-badge&label=STARS)
+![Stars](https://img.shields.io/github/stars/jpC0ELHO?style=for-the-badge&label=STARS)
 
-![Public Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FSEU_USUARIO&query=%24.public_repos&label=PUBLIC%20REPOS&style=for-the-badge)
+![Public Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FjpC0ELHO&query=%24.public_repos&label=PUBLIC%20REPOS&style=for-the-badge)
 
 <br>
 
