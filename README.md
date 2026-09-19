@@ -16,10 +16,12 @@
 |:---:|:---:|:---:|
 | ![Followers](https://img.shields.io/github/followers/jpC0ELHO?style=for-the-badge&label=) | ![Stars](https://img.shields.io/github/stars/jpC0ELHO?style=for-the-badge&label=) | ![Public Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FjpC0ELHO&query=%24.public_repos&label=&style=for-the-badge)|
 
-|**BIO**| **NAME**|
-|:---:|:---:|
-| ![Bio](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FjpC0ELHO&query=%24.bio&label=BIO&style=for-the-badge) | ![Name](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FjpC0ELHO&query=%24.name&label=NAME&style=for-the-badge)|
-
+|**BIO**|
+|:---:|
+| ![Bio](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FjpC0ELHO&query=%24.bio&label=BIO&style=for-the-badge) | 
+|**NAME**|
+|:---:|
+|![Name](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FjpC0ELHO&query=%24.name&label=NAME&style=for-the-badge)|
 </div>
 
 <br>
