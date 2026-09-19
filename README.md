@@ -98,7 +98,8 @@ INTELLIGENCE
 
 ## `04` — Core Areas
 
-[ SOFTWARE ]
+````
+ [ SOFTWARE ]
       │
       ├── Backend
       ├── APIs
@@ -125,5 +126,5 @@ INTELLIGENCE
       ├── Data Processing
       ├── Detection
       └── Decision Support
-              └──────────┘
-└── Applied AI
+````
+
