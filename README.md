@@ -1,45 +1,63 @@
-<h1 align="center">João Coelho</h1>
-<h3 align="center">Inventor | Software Developer | Systems Architect | IOT Engineer | IA Developer </h3>
-<p align="center">
+<div align="center">
 
-</p>
+# João Coelho
 
-<p align="center">
-  <a href="mailto:joaopcoelho2010@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+### Inventor · Software Developer · Systems Architect · IoT Engineer · AI Developer
+
+<br>
+
+`JAVA` · `SPRING` · `C#` · `LUA` · `MYSQL` · `MARIADB`
+
+<br><br>
+
+| 16 | 2 | 38 |
+|:---:|:---:|:---:|
+| **Followers** | **Stars** | **Public Repositories** |
+
+<br>
 
 ---
-
-<div align="center">
-  
-![Followers](https://img.shields.io/github/followers/jpC0ELHO?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/jpC0ELHO?style=for-the-badge)
-![Repos](https://img.shields.io/badge/dynamic/json?label=Public%20Repos&query=public_repos&url=https://api.github.com/users/jpC0ELHO&style=for-the-badge)
-
 
 </div>
 
+## `01` — Engineering
+
+> Desenvolvimento de sistemas orientados a automação, integração,
+> escalabilidade e controle.
+
+- **System Architecture**
+- **Backend Development**
+- **REST APIs**
+- **CRUD**
+- **WebSocket**
+- **IoT & Embedded Systems**
+- **Sensor Integration**
+- **Intelligent Automation**
+- **Applied Artificial Intelligence**
+- **Transactional Databases**
+- **Analytical Databases**
+
 ---
 
+## `02` — Technology Stack
 
-<div align="center">
+```text
+BACKEND
+├── Java
+├── Spring
+├── C#
+└── Lua
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
+DATABASE
+├── MySQL
+└── MariaDB
 
-</div>
+SYSTEMS
+├── REST
+├── WebSocket
+├── IoT
+├── Sensors
+└── Automation
 
----
-- Arquitetura de Sistemas
-- Integração de Sensores e IoT
-- APIs REST/CURD, WebSocket
-- Inteligência Artificial aplicada
-- Bancos de Dados Analíticos e Transacionais
-- Automação e Sistemas Inteligentes
----
+INTELLIGENCE
+└── Applied AI
