@@ -61,7 +61,8 @@ SYSTEMS
 INTELLIGENCE
 └── Applied AI
 ```
-´ ## `03` — Architecture
+
+## `03` — Architecture
                          ┌───────────────────┐
                          │      CLIENT       │
                          │ Web / Desktop /   │
