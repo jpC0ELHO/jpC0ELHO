@@ -17,6 +17,11 @@
 > | Idioma | 🇧🇷 PT-BR | [🇺🇸 EN-US](README.en.md) |
 > |---|---|---|
 
+<p align="center">
+  <a href="https://jpc0elho.github.io/snake/">
+    <img src="https://img.shields.io/badge/▶_PLAY_SNAKE-8b008b?style=for-the-badge" />
+  </a>
+</p>
 <details>
 <summary>Detalhes</summary>
 
