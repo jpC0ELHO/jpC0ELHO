@@ -1,8 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f9d3a&height=120&section=header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:ffffff&height=120&section=header" />
 
 <p align="center">
   <a href="https://github.com/jpC0ELHO">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=1500&pause=2000&color=1F9D3A&center=true&vCenter=true&width=600&height=120&lines=Encontre;Backend+Java+%2B+Spring+Boot;IoT+e+Sistemas+Embarcados;ERPs+sob+medida;Coelho+Techne" alt="Texto animado" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=1500&pause=2000&color=FFFFFF&center=true&vCenter=true&width=600&height=120&lines=Find;Java+%2B+Spring+Boot+Backend;IoT+%26+Embedded+Systems;Custom+ERPs;Coelho+Techne" alt="Typing text" />
   </a>
 </p>
 
@@ -10,7 +10,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jpC0ELHO/jpC0ELHO/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jpC0ELHO/jpC0ELHO/output/github-snake.svg" />
-    <img alt="Cobrinha de contribuições" src="https://raw.githubusercontent.com/jpC0ELHO/jpC0ELHO/output/github-snake-dark.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/jpC0ELHO/jpC0ELHO/output/github-snake-dark.svg" />
   </picture>
 </p>
 
