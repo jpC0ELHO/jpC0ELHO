@@ -14,17 +14,17 @@
   </picture>
 </p>
 
-> | Idioma | 🇧🇷 PT-BR | [🇺🇸 EN-US](README.en.md) |
+> | Language | [🇧🇷 PT-BR](README.md) | 🇺🇸 EN-US |
 > |---|---|---|
 
 <details>
-<summary>Detalhes</summary>
+<summary>Details</summary>
 
-### 👋 Sobre mim
+### 👋 About me
 
-CEO da **Coelho Techne**, atuando com backend, IoT/embarcados e ERPs.
+CEO at **Coelho Techne**, working on backend, IoT/embedded and ERP systems.
 
-### 🛠️ Tecnologias
+### 🛠️ Tech stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
