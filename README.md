@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f9d3a&height=120&section=header" />
+<img width="307" height="589" alt="image" src="https://github.com/user-attachments/assets/b1dd8a9a-98b8-4ace-a824-e50aa30e2467" /><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f9d3a&height=120&section=header" />
 
 <p align="center">
   <a href="https://github.com/jpC0ELHO">
@@ -29,5 +29,7 @@ CEO da **Coelho Techne**, atuando com backend, IoT/embarcados e ERPs.
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 </details>
