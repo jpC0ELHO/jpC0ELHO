@@ -1,171 +1,33 @@
-<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f9d3a&height=120&section=header" />
 
-# João Coelho
+<p align="center">
+  <a href="https://github.com/jpC0ELHO">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=1500&pause=2000&color=1F9D3A&center=true&vCenter=true&width=600&height=120&lines=Encontre;Backend+Java+%2B+Spring+Boot;IoT+e+Sistemas+Embarcados;ERPs+sob+medida;Coelho+Techne" alt="Texto animado" />
+  </a>
+</p>
 
-### Inventor · Software Developer · Systems Architect · IoT Engineer · AI Developer
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jpC0ELHO/jpC0ELHO/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jpC0ELHO/jpC0ELHO/output/github-snake.svg" />
+    <img alt="Cobrinha de contribuições" src="https://raw.githubusercontent.com/jpC0ELHO/jpC0ELHO/output/github-snake-dark.svg" />
+  </picture>
+</p>
 
-<br>
+> | Idioma | 🇧🇷 PT-BR | [🇺🇸 EN-US](README.en.md) |
+> |---|---|---|
 
-`JAVA` · `SPRING` · `C#` · `LUA` · `MYSQL` · `MARIADB`
+<details>
+<summary>Detalhes</summary>
 
-<br><br>
+###  Sobre mim
 
-<div align="center">
+CEO da **Coelho Techne**, atuando com backend, IoT/embarcados e ERPs.
 
-| **FOLLOWERS** | **STARS** | **PUBLIC REPOS** |
-|:---:|:---:|:---:|
-| ![Followers](https://img.shields.io/github/followers/jpC0ELHO?style=for-the-badge&label=) | ![Stars](https://img.shields.io/github/stars/jpC0ELHO?style=for-the-badge&label=) | ![Public Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FjpC0ELHO&query=%24.public_repos&label=&style=for-the-badge)|
+### Tecnologias
 
-|**BIO**|
-|:---:|
-| ![Bio](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FjpC0ELHO&query=%24.bio&label=BIO&style=for-the-badge) | 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-|**NAME**|
-|:---:|
-| ![Name](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FjpC0ELHO&query=%24.name&label=NAME&style=for-the-badge) |
-</div>
-
-<div align="center">
-  
-```
-                               #########################        ############################
-                               #########################        ############################
-                               #########################        ############################
-                                              ##########        ##########        ##########
-                                              ##########        ##########        ##########
-                                              ##########        ##########        ##########
-                                              ##########        ##########        ##########
-                                              ##########        ##########        ##########
-                                              ##########        ##########        ##########
-                                              ##########        ############################
-                                              ##########        ############################
-                                              ##########        ############################
-                            ##########        ##########
-                            ##########        ##########
-                            ##########        ##########
-                            ##########        ##########
-                            ##########        ##########
-               #######################        ##########
-               #######################        ##########
-               #######################        ##########
-
-````
-  
-</div>
-          
-
-
-<br>
-
----
-
-</div>
-
-## `01` — Engineering
-
-> Desenvolvimento de sistemas orientados a automação, integração,
-> escalabilidade e controle.
-
-- **System Architecture**
-- **Backend Development**
-- **REST APIs**
-- **CRUD**
-- **WebSocket**
-- **IoT & Embedded Systems**
-- **Sensor Integration**
-- **Intelligent Automation**
-- **Applied Artificial Intelligence**
-- **Transactional Databases**
-- **Analytical Databases**
-
----
-
-## `02` — Technology Stack
-
-```
-BACKEND
-├── Java
-├── Spring
-├── C#
-└── Lua
-
-DATABASE
-├── MySQL
-└── MariaDB
-
-SYSTEMS
-├── REST
-├── WebSocket
-├── IoT
-├── Sensors
-└── Automation
-INTELLIGENCE
-└── Applied AI
-```
-
-## `03` — Architecture
-                         ┌───────────────────┐
-                         │      CLIENT       │
-                         │ Web / Desktop /   │
-                         │ Mobile / IoT      │
-                         └─────────┬─────────┘
-                                   │
-                                   ▼
-                         ┌───────────────────┐
-                         │       API         │
-                         │ REST / WebSocket  │
-                         └─────────┬─────────┘
-                                   │
-                                   ▼
-                         ┌───────────────────┐
-                         │   APPLICATION     │
-                         │      LOGIC        │
-                         └─────────┬─────────┘
-                                   │
-                    ┌──────────────┼──────────────┐
-                    ▼              ▼              ▼
-              ┌──────────┐  ┌──────────┐  ┌──────────┐
-              │   IoT    │  │   AI     │  │Automation│
-              │ Sensors  │  │ Models   │  │ Systems  │
-              └────┬─────┘  └──────────┘  └──────────┘
-                   │
-                   ▼
-              ┌──────────┐
-              │ DATABASE │
-              │ SQL /    │
-              │ Analytics│
-              └──────────┘
-
-
-## `04` — Core Areas
-
-````
- [ SOFTWARE ]
-      │
-      ├── Backend
-      ├── APIs
-      ├── Distributed Systems
-      └── System Architecture
-
-[ IoT ]
-      │
-      ├── Sensors
-      ├── Embedded Devices
-      ├── Device Communication
-      └── Remote Control
-
-[ AUTOMATION ]
-      │
-      ├── Intelligent Systems
-      ├── Process Automation
-      ├── Monitoring
-      └── Control
-
-[ AI ]
-      │
-      ├── Applied Intelligence
-      ├── Data Processing
-      ├── Detection
-      └── Decision Support
-````
-
+</details>
