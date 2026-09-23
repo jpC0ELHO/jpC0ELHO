@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/jpC0ELHO">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=1500&pause=2000&color=FFFFFF&center=true&vCenter=true&width=600&height=120&lines=Find;Java+%2B+Spring+Boot+Backend;IoT+%26+Embedded+Systems;Custom+ERPs;Coelho+Techne" alt="Typing text" />
+       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=1500&pause=2000&color=FFFFFF&center=true&vCenter=true&width=700&height=120&lines=Find;Java+%2B+Spring+Boot+Backend;IoT+%26+Embedded+Systems;AI+%26+Machine+Learning;Tailor-made+ERPs;CEO+of+Coelho+Techne" alt="Typing text" />
   </a>
 </p>
 
