@@ -1,15 +1,15 @@
 name: Gerar cobrinha de contribuições
- 
+
 on:
   schedule:
-    - cron: "0 */12 * * *"   
-  workflow_dispatch:          
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
   push:
     branches: [main]
- 
+
 permissions:
   contents: write
- 
+
 jobs:
   generate:
     runs-on: ubuntu-latest
@@ -20,9 +20,9 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg?color_snake=#8b008b
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=#8b008b
- 
+            dist/github-snake.svg?color_snake=#8b008b&color_dots=#ebedf0,#c8c8c8,#9e9e9e,#6e6e6e,#3d3d3d
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#8b008b&color_dots=#161b22,#4d4d4d,#8c8c8c,#c8c8c8,#ffffff
+
       - name: Publicar na branch output
         uses: crazy-max/ghaction-github-pages@v4
         with:
@@ -30,4 +30,3 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
- 
