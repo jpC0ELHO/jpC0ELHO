@@ -32,7 +32,7 @@
       .-.           .-.
       | O \       / O |
       | O  \     /  O |
-       \  O \   /  O /
+       \  O \   / O  /
          `___` ´___´
 
 CEO da **Coelho Techne**, atuando com backend, IoT/embarcados e ERPs, Inteligencia Artificial|Machine Learning.
