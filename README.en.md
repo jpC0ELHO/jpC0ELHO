@@ -13,7 +13,7 @@
     <img alt="Contribution snake" src="https://raw.githubusercontent.com/jpC0ELHO/jpC0ELHO/output/github-snake-dark.svg" />
   </picture>
 </p>
-
+- If it's a blue link it's for changing the language. || Se for um link azul e para mudar a linguagem.
 > | Language | [🇧🇷 PT-BR](README.md) | 🇺🇸 EN-US |
 > |---|---|---|
 
