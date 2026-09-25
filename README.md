@@ -15,6 +15,7 @@
 </p>
 
 - If it's a blue link it's for changing the language. || Se for um link azul e para mudar a linguagem.
+
 > | Idioma | 🇧🇷 PT-BR | [🇺🇸 EN-US](README.en.md) |
 > |---|---|---|
 
