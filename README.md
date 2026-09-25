@@ -29,6 +29,12 @@
 
 ###  Sobre mim
 
+        .-.
+       (o o)
+       | O \
+        \   \
+         `~~~`
+
 CEO da **Coelho Techne**, atuando com backend, IoT/embarcados e ERPs, Inteligencia Artificial|Machine Learning.
 
 ###  Tecnologias
