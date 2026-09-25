@@ -27,11 +27,11 @@
 <details>
 <summary>Detalhes</summary>
 
-### 👋 Sobre mim
+###  Sobre mim
 
 CEO da **Coelho Techne**, atuando com backend, IoT/embarcados e ERPs, Inteligencia Artificial|Machine Learning.
 
-### 🛠️ Tecnologias
+###  Tecnologias
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
