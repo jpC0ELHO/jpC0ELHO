@@ -29,6 +29,10 @@
 
 ### About me
 
+ /\_/\
+( o.o )
+ > ^ <
+
 CEO at **Coelho Techne**, working on backend, IoT/embedded and ERP systems.
 
 ###  Tech stack
