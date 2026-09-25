@@ -29,9 +29,11 @@
 
 ### About me
 
-         /\_/\
-        ( o.o )
-         > ^ <
+          .-.           .-.
+          | O \       / O |
+          | O  \     /  O |
+           \  O \   /  O /
+             `___` ´___´
 
 CEO at **Coelho Techne**, working on backend, IoT/embedded and ERP systems.
 
