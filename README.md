@@ -21,7 +21,7 @@
 
 <p align="center">
   <a href="https://jpc0elho.github.io/snake/">
-    <img src="https://img.shields.io/badge/▶_JOGAR_SNAKE-8b008b?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/▶_JOGAR_JOGO_DA_COBRINHA-8b008b?style=for-the-badge" />
   </a>
 </p>
 <details>
